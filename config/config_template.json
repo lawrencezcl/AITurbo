@@ -1,0 +1,22 @@
+{
+    "wechat_appid": "",
+    "wechat_appsecret": "",
+    "gemini_api_key": "",
+    "gemini_model": "gemini-2.5-flash",
+    "deepseek_api_key": "",
+    "deepseek_model": "deepseek-chat",
+    "dashscope_api_key": "",
+    "dashscope_model": "qwen-turbo",
+    "pexels_api_key": "",
+    "coze_token": "",
+    "image_model": "gemini",
+    "author": "AI笔记",
+    "content_source_url": "",
+    "db_host": "localhost",
+    "db_port": "3306",
+    "db_user": "aiturbo_user",
+    "db_password": "",
+    "db_name": "aiturbo",
+    "created_at": "2025-09-14 10:30:00",
+    "updated_at": "2025-09-14 10:30:00"
+}
